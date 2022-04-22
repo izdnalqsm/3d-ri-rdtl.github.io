@@ -1,0 +1,406 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": [
+        {
+          "enabled": true,
+          "keyframes": [
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13678237.734461036,
+                "y": -1195333.8185267348,
+                "z": 4712.717320013975
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 1",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13794212.973754944,
+                "y": -1276444.600951679,
+                "z": 6776.909856980449
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 2",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13924920.928782484,
+                "y": -1256321.9278804818,
+                "z": 7679.660585290286
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 3",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 14006117.86062062,
+                "y": -1158958.7771401084,
+                "z": 7679.660585290136
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 4",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 14002215.90987924,
+                "y": -1028712.8318286443,
+                "z": 7229.560592404684
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 5",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13862007.95366719,
+                "y": -919682.7747601736,
+                "z": 6207.7528374074645
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 6",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13712687.790139174,
+                "y": -969261.7947923462,
+                "z": 7116.6308171405935
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 7",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 13836806.175904911,
+                "fy": -1100298.7312313446,
+                "fz": 1.3800396189850586e-14,
+                "x": 13662749.235309377,
+                "y": -1158736.4334307888,
+                "z": 5520.274891105903
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 8",
+              "type": 128
+            }
+          ],
+          "name": "Group",
+          "type": 64
+        }
+      ]
+    },
+    "enabled": true,
+    "layers": {
+      "HillshadeNTT_2008ef99_27d9_46bd_88da_189561408ad7": {
+        "enabled": true,
+        "groups": []
+      },
+      "HillshadeNTT_888f5ba6_7ec4_4a88_bd32_613a3bfb506a": {
+        "enabled": true,
+        "groups": []
+      },
+      "NTT_49d274d0_0f8d_42ba_a3df_2fbd437334f8": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_e02e2398_9c04_4ae4_86df_db9745b1641a": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:1c82b8aa": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": true,
+    "startOnLoad": true
+  },
+  "LAYERS": [
+    {
+      "geomType": 0,
+      "layerId": "OUTPUT_e02e2398_9c04_4ae4_86df_db9745b1641a",
+      "name": "Shadow depth",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "NTT_49d274d0_0f8d_42ba_a3df_2fbd437334f8",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "595e3989",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "595e3989",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "HillshadeNTT_2008ef99_27d9_46bd_88da_189561408ad7",
+      "name": "HillshadeNTT",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "NTT_49d274d0_0f8d_42ba_a3df_2fbd437334f8",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "2df9c930",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "2df9c930",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "HillshadeNTT_888f5ba6_7ec4_4a88_bd32_613a3bfb506a",
+      "name": "HillshadeNTT",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "NTT_49d274d0_0f8d_42ba_a3df_2fbd437334f8",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "d3473628",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "d3473628",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "NTT_49d274d0_0f8d_42ba_a3df_2fbd437334f8",
+      "name": "NTT",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:1c82b8aa",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "lineEdit_Altitude": "0",
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "f4664a9e",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "f4664a9e",
+        "spinBox_Size": 3
+      },
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "animation.enabled": true,
+    "animation.repeat": true,
+    "animation.startOnLoad": true,
+    "localMode": true,
+    "viewpoint": {
+      "lookAt": {
+        "x": 13836806.175904911,
+        "y": -1100298.7312313446,
+        "z": 1.3800396189850586e-14
+      },
+      "pos": {
+        "x": 13729166.456114752,
+        "y": -1248517.6327916412,
+        "z": 5765.433029077989
+      }
+    }
+  },
+  "OutputFilename": "D:/QgisTraining\\index.html",
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "13862784.867555812",
+    "lineEdit_CenterY": "-1091322.5112096784",
+    "lineEdit_Height": "269973.008216206",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "269973.008216206",
+    "lineEdit_zFactor": "7.5",
+    "slider_Fog": 41
+  },
+  "Template": "3DViewer.html",
+  "Title": "3DProject",
+  "Version": 20701
+}
